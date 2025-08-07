@@ -1,1 +1,3 @@
-#!bin/bash/
+#!/bin/bash/
+TRUEKNOWLEDGE=1205
+echo TRUEKNOWLEDGE+128
